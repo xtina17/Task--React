@@ -1,0 +1,24 @@
+.skillButton{
+    width: 100px;
+    height: 27px;
+    border-radius: 5px;
+    background: #bbb;
+    outline: none;
+    padding: 5px;
+    margin: 5px;
+    color: #ffffff;
+    border: 1px solid white;
+    cursor: pointer;
+}
+.delete{
+    font-size: 25px;
+    color: #bbbbbb;
+    background: #333333;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin: 3px;
+}
+.delete:hover{
+    background: rgba(85, 85, 85, 0.3);
+}

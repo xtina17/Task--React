@@ -1,0 +1,11 @@
+.container{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e5e4e4;
+    width: 30%;
+}
+h1{
+    padding: 20px;
+}
