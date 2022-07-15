@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.App{
+    background-color: #e3e3e3;
+}
+body{
+    height: 100vh;
+    -webkit-user-select: none;
+}
+
+.main{
+    display: flex;
+}
+@media screen and (max-width: 768px) {
+    .main{
+        flex-direction: column;
+    }
+}
